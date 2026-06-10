@@ -1,0 +1,6 @@
+pyproject.toml
+tradebot2.egg-info/PKG-INFO
+tradebot2.egg-info/SOURCES.txt
+tradebot2.egg-info/dependency_links.txt
+tradebot2.egg-info/requires.txt
+tradebot2.egg-info/top_level.txt
